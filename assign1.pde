@@ -1,6 +1,6 @@
 /* 
   Assignment 1
-  Author:          Bao yuchen
+  Author:          Bao Yuchen
   Student Number:  103254021
   Update:          2015/10/07
 */
